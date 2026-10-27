@@ -1,5 +1,7 @@
 # Pausa — demo de bienestar
 
+**Demo publicado en ChatGPT Pages:** [Pausa](https://pausa-bienestar.josuedelarosa.chatgpt.site/)
+
 Prototipo académico de una página web estática para reflexionar sobre el bienestar emocional. El formulario y su orientación funcionan localmente en el navegador.
 
 ## Abrir localmente
