@@ -25,5 +25,8 @@ Abre `index.html` en un navegador. No requiere instalar dependencias ni configur
 - Las preguntas y los perfiles son una simulación educativa, no una prueba clínica validada ni un diagnóstico.
 - Las respuestas no se envían ni se guardan en un servidor.
 - La sección de planes es ilustrativa: no hay registro ni procesamiento de pagos.
+- La devolución compara 36 parejas entre las nueve respuestas principales mediante reglas explícitas y descriptivas.
+
+Consulta [el análisis del algoritmo y de todas las combinaciones](ANALISIS-ALGORITMO.md) para conocer sus reglas, límites y el cálculo del espacio de respuestas.
 
 Antes de convertirlo en un servicio real, habría que validar el cuestionario, definir avisos de privacidad y consentimiento, y evaluar los requisitos aplicables al uso previsto.
